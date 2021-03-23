@@ -1,0 +1,35 @@
+img{
+	width: 120px;
+	height: 120px;
+	float: right;
+	
+}
+h3{
+	text-align:center;
+	
+}
+#fParagraph{
+	text-align:center;
+}
+hr{
+	height:2px;
+	border-width:20;
+	color:black;
+	background-color:black;
+}
+.fh2{
+		text-indent: 30px;
+		font-family: tahoma;
+		background-color:#6D8A96;
+}
+ul{
+	type:disc;
+}
+ol{
+	type:1;
+}
+body{
+		background-color:#80ced6;
+		color:#50394c;
+		font-family: Verdana;
+}
